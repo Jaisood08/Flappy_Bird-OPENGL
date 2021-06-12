@@ -3,8 +3,8 @@
 #### SNAPSHOTS:
 
 #### 1.INITIAL GAME:
-![One](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png)
-
+![One](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/4.png)
+![Two](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/3.png)
 
 #### 2.BIRD:
 
@@ -22,6 +22,8 @@
 #### 7.MOUNTAINS AND CLOUDS:
 
 #### 8. END OF GAME WITH SCORE DISPLAYED ON SCREEN:
+![On](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/2.png)
+![To](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png)
 
 
 Project Description
