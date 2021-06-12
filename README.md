@@ -1,5 +1,28 @@
 # Flappy_Bird-OPENGL
 
+#### SNAPSHOTS:
+
+#### 1.INITIAL GAME:
+!(https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png)
+
+
+#### 2.BIRD:
+
+#### 3.DURING GAME:
+
+
+#### 4.PIPES
+
+
+#### 5.MORNING AND NIGHT VIEW:
+
+#### 6.BUILDING:
+
+
+#### 7.MOUNTAINS AND CLOUDS:
+
+#### 8. END OF GAME WITH SCORE DISPLAYED ON SCREEN:
+
 
 Project Description
 ```
@@ -237,27 +260,6 @@ keyboard function and creates the window for application.
 
 
 
-#### SNAPSHOTS:
 
-#### 1.INITIAL GAME:
-![game](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png)
-
-
-#### 2.BIRD:
-
-#### 3.DURING GAME:
-
-
-#### 4.PIPES
-
-
-#### 5.MORNING AND NIGHT VIEW:
-
-#### 6.BUILDING:
-
-
-#### 7.MOUNTAINS AND CLOUDS:
-
-#### 8. END OF GAME WITH SCORE DISPLAYED ON SCREEN:
 
 
