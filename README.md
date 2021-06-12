@@ -3,7 +3,7 @@
 #### SNAPSHOTS:
 
 #### 1.INITIAL GAME:
-!(https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png)
+![One](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png)
 
 
 #### 2.BIRD:
