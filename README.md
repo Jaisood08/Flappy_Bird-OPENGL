@@ -7,19 +7,31 @@
 ![Two](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/3.png)
 
 #### 2.BIRD:
+![Odne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/15.png)
 
 #### 3.DURING GAME:
-
+![Odne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/3.png)
+![Ordne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/2.png)
 
 #### 4.PIPES
-
+![POrdne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/14.png)
 
 #### 5.MORNING AND NIGHT VIEW:
+![MNPOrdne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/6.png)
+![NMNPOrdne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/5.png)
+
 
 #### 6.BUILDING:
-
+![BPOrdne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/8.png)
+![BPOrddne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/7.png)
 
 #### 7.MOUNTAINS AND CLOUDS:
+![BrtPOrddne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/10.png)
+![BPOrdwdne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/11.png)
+![BPOerddne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/12.png)
+![BPOsrdddne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/9.png)
+![BPaaOrddne](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/13.png)
+
 
 #### 8. END OF GAME WITH SCORE DISPLAYED ON SCREEN:
 ![On](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/2.png)
