@@ -240,6 +240,10 @@ keyboard function and creates the window for application.
 #### SNAPSHOTS:
 
 #### 1.INITIAL GAME:
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/15.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/14.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/13.png?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/12.png?raw=true)
 
 #### 2.BIRD:
 
