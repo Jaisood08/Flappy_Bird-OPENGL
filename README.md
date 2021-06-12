@@ -240,7 +240,7 @@ keyboard function and creates the window for application.
 #### SNAPSHOTS:
 
 #### 1.INITIAL GAME:
-![game](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png?raw=true)
+![game](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/1.png)
 
 
 #### 2.BIRD:
