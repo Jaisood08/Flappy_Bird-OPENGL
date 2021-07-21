@@ -1,8 +1,5 @@
 # Flappy_Bird-OPENGL
 
-#### SNAPSHOTS:
-
-
 Project Description
 ```
 The project is based upon GLUT i.e. the OpenGL Utility Toolkit, a window system
@@ -27,7 +24,7 @@ modification to build the abstraction. The game is in single player mode. The us
 with the game using keyboard.
 
 ```
-
+#### SNAPSHOTS:
 
 #### 1.INITIAL GAME:
 ![One](https://github.com/Jaisood08/Flappy_Bird-OPENGL/blob/main/4.png)
